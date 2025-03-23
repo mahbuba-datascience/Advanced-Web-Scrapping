@@ -1,10 +1,10 @@
 # Custom Bot Project
 
-*Mahbuba Jyoti, Zhongming Wu*
+*Mahbuba Jyoti*
 
 ## Project Goal
 
-This project aims to execute a complete ETL process. We will clean, transform, and store search results from multiple search engines into a database. Additionally, we will analyze and rank the search results to demonstrate the practical value of the project.
+This project aims to execute a complete ETL process. I will clean, transform, and store search results from multiple search engines into a database. Additionally, I will analyze and rank the search results to demonstrate the practical value of the project.
 
 ## Our Approaches
 
