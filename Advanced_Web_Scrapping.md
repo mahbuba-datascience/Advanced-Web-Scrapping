@@ -1,6 +1,3 @@
-# Custom Bot Project
-
-*Mahbuba Jyoti*
 
 ## Project Goal
 
