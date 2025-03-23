@@ -4,9 +4,9 @@
 
 This project aims to execute a complete ETL process. I will clean, transform, and store search results from multiple search engines into a database. Additionally, I will analyze and rank the search results to demonstrate the practical value of the project.
 
-## Our Approaches
+## My Approaches
 
-To implement this project, we have outlined several steps:
+To implement this project, I have outlined several steps:
 
 **Extraction**
 
