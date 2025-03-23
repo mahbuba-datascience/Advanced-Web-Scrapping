@@ -50,9 +50,9 @@ Evaluate the datasets involved in the entire process and design an efficient and
 
 The guidelines did not clearly define the calculation of frequency, which added some difficulty.
 
-- Initially, we only counted the frequency of URLs. However, this result was not ideal and lacked reference value. For example, if we have data from five search engines, a URL could appear up to five times, which only indicates that the URL has been indexed by different search engines, but does not reflect the relevance between the URL and the search term.
+- Initially, I only counted the frequency of URLs. However, this result was not ideal and lacked reference value. For example, if I have data from five search engines, a URL could appear up to five times, which only indicates that the URL has been indexed by different search engines, but does not reflect the relevance between the URL and the search term.
 
-- Later, we changed our approach to counting the occurrences of each search term on each URL page. We removed special characters from the search term, split it into tokens, removed stopwords, and performed stemming. Then, we counted the number of occurrences of each token on the URL page and summed them to obtain the frequency of the search term on that page. This approach reflects the relevance between the search term and the URL. Although it differs significantly from ranking algorithms used by companies like Google, it allows us to gain insights into the association between search terms and URLs.
+- Later, I changed my approach to counting the occurrences of each search term on each URL page. I removed special characters from the search term, split it into tokens, removed stopwords, and performed stemming. Then, I counted the number of occurrences of each token on the URL page and summed them to obtain the frequency of the search term on that page. This approach reflects the relevance between the search term and the URL. Although it differs significantly from ranking algorithms used by companies like Google, it allows us to gain insights into the association between search terms and URLs.
 
 ## Conclusion
 
